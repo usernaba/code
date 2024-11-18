@@ -1,0 +1,95 @@
+.section{
+    position:fixed;
+    margin-left:45px;
+}
+.section1{
+    margin-left:45px;
+}
+.section2{
+    position:absolute;
+    background-color:black;
+    width:84%;
+    left:53px;
+    padding:50px;
+}
+.section2 p{
+    color:aqua;
+    font-size:28pt;
+    text-align:justify;
+}
+.section2 img{
+    float:left;
+    margin:10px;
+    border:5px solid white;
+}
+.section2{
+    position:absolute;
+    background-color:black;
+    width:84%;
+    left:53px;
+    padding:50px;
+}
+.section2 p{
+    color:aqua;
+    font-size:28pt;
+    text-align:justify;
+}
+.section2 img{
+    float:left;
+    margin:10px;
+    border:5px solid white;
+}
+.section3{
+    position:absolute;
+    background-color:black;
+    top:170%;
+    width:84%;
+    left:53px;
+    padding:50px;
+}
+.section3 p{
+    color:yellow;
+    font-size:28pt;
+    text-align:justify;
+}
+.section3 img{
+    float:left;
+    margin:10px;
+    border:5px solid white;
+}
+.section4{
+    position:absolute;
+    background-color:black;
+    top:250%;
+    width:84%;
+    left:53px;
+    padding:50px;
+}
+.section4 p{
+    color:aqua;
+    font-size:28pt;
+    text-align:justify;
+}
+.section4 img{
+    float:left;
+    margin:10px;
+    border:5px solid white;
+}
+.section5{
+    position:absolute;
+    background-color:black;
+    top:310%;
+    width:84%;
+    left:53px;
+    padding:50px;
+}
+.section5 p{
+    color:lime;
+    font-size:28pt;
+    text-align:justify;
+}
+.section5 img{
+    float:left;
+    margin:10px;
+    border:5px solid white;
+}
